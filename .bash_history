@@ -180,3 +180,4 @@ git status
 git commit -m "requ versions updated & working"
 git push -u origin main
 pip3 install -r requirements.txt 
+pip install -r requirements.txt
